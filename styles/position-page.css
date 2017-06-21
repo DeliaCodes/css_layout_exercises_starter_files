@@ -14,7 +14,6 @@ nav {
 .nav-link-set {
 	display: inline-block;
 	bottom: 25px;
-	position: relative;
 }
 .navlink1 {
 	display: inline-block;
@@ -35,8 +34,13 @@ nav {
 	margin:auto;
 }
 .cat {
-
+		position: relative;
+		bottom: 130px;
+		right: 30px;
 }
 .dog {
-	
+	position: relative;
+	left: 475px;
+	bottom: 50px;
+
 }
