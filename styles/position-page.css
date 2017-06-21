@@ -14,6 +14,7 @@ nav {
 .nav-link-set {
 	display: inline-block;
 	bottom: 25px;
+	position: relative;
 }
 .navlink1 {
 	display: inline-block;
