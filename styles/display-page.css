@@ -1,0 +1,51 @@
+
+
+.dath {
+		margin: auto;
+		width: 800px;
+		height: 500px;
+}
+
+.glas {
+		height: 200px;
+		width: 50%;
+		background-color: green;
+		display: inline-block;
+		font-size: 0;
+		border: 1px solid black;
+}
+.gorm {
+		height: 200px;
+		width: 50%;
+		display: inline-block;
+		background-color: blue;
+		font-size: 0;
+		border: 1px solid black;
+}
+
+.liath {
+		height: 300px;
+    	width: 33%;
+		background-color: grey;
+		font-size: 0;
+		border: 1px solid black;
+}
+
+.dubh {
+		height: 300px;
+		width: 33.33%;
+		background-color: black;
+		display: inline-block;
+		font-size: 0;
+		border: 1px solid black;
+}
+
+.bui {
+		height: 300px;
+		width: 33.33%;
+		background-color: yellow;
+		display: inline-block;
+		font-size: 0;
+		border: 1px solid black;
+}
+
