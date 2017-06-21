@@ -27,6 +27,7 @@
 		height: 300px;
     	width: 33%;
 		background-color: grey;
+		display: inline-block;
 		font-size: 0;
 		border: 1px solid black;
 }
