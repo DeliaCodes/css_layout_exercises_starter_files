@@ -7,10 +7,10 @@ nav {
 
 .icon {
 	display: inline-block;
+	border-radius: 50%;
 }
 .nav-link-set {
 	display: inline-block;
-	position: absolute;
 	bottom: 20px;
 }
 .navlink1 {
