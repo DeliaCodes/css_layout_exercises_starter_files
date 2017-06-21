@@ -1,3 +1,10 @@
+* {
+	background: url(images/outerspace_landscape.jpeg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 nav {
 		position: fixed;
 		background-color: grey;
@@ -5,6 +12,17 @@ nav {
 		padding-right: 60px;
 		width: 100%;
 }
+
+/* why is this broken below? 
+html { 
+  background: url(images/outerspace_landscape.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+*/
+
 
 .icon {
 	display: inline-block;
