@@ -1,1 +1,24 @@
+nav {
+		position: fixed;
+		background-color: grey;
+		padding-left: 60px;
+		padding-right: 60px;
+}
 
+.icon {
+	display: inline-block;
+}
+.nav-link-set {
+	display: inline-block;
+	position: absolute;
+	bottom: 20px;
+}
+.navlink1 {
+	display: inline-block;
+}
+.navlink2 {
+	display: inline-block;
+}
+.navlink3 {
+	display: inline-block;
+}
