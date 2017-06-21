@@ -26,5 +26,10 @@ nav {
 }
 
 .greenbox {
+	position: relative;
+	height: 300px;
+	width: 600px;
 	border: 10px green dotted;
+	top: 200px;
+	margin:auto;
 }
